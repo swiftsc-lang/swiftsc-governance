@@ -11,14 +11,16 @@ Currently, we support the latest beta release for security updates.
 
 ## Reporting a Vulnerability
 
-We take the security of SwiftSC seriously. If you discover a security vulnerability, please do **NOT** open an issue.
+We take the security of SwiftSC seriously. If you discover a security
+vulnerability, please do **NOT** open an issue.
 
 Instead, please send an email to **swiftsc-lang@proton.me**.
 
 ### What to Include
 
-*   A description of the vulnerability.
-*   Steps to reproduce the issue.
-*   Potential impact.
+* A description of the vulnerability.
+* Steps to reproduce the issue.
+* Potential impact.
 
-We will acknowledge your report within 48 hours and provide an estimated timeline for a fix.
+We will acknowledge your report within 48 hours and provide an estimated timeline
+for a fix.
